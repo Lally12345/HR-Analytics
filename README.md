@@ -1,10 +1,10 @@
 # HR-Analytics
 
-#Project Titile: HR Analytics
+Project Titile: HR Analytics
 
-#Technologies: Business Intelligence
+Technologies: Business Intelligence
 
-#Domain: Business Analytics
+Domain: Business Analytics
 
 # Problem Statement:
 
